@@ -1,0 +1,2 @@
+[2025-05-16T14:10:44.242Z] [INFO]: Test started: /playwright/e2e/Courses/Course_Page/courseDetailsAndStartLearning.spec.ts
+[2025-05-16T14:10:57.792Z] [INFO]: Test completed: /playwright/e2e/Courses/Course_Page/courseDetailsAndStartLearning.spec.ts
