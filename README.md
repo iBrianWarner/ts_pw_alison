@@ -60,4 +60,11 @@ Open report:
 
 ```bash
 npm run allure:open
-``
+```
+
+## Additional info
+
+- **Shopping Cart**: shopping cart is missing in the app, so test was not implemented
+- GitHub pages is used for Allure Report
+- Mobile projects are ready for development in case if we need tests for mobile browsers
+- POM, Composition, and Singleton patterns is used to organize code in framework.
