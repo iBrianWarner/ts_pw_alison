@@ -46,6 +46,8 @@ npm run pw:run:local-open-debug
 
 ### Allure Report
 
+**Allure Reports**: Test reports can be accessed locally or via the [Allure report link](https://ibrianwarner.github.io/ts_pw_alison/).
+
 Read the [documentation](https://allurereport.org/docs/install/) to setup Allure locally.
 
 Generate report:

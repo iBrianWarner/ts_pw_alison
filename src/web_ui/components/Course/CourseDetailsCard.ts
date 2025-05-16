@@ -16,12 +16,11 @@ export class CourseDetailsCard extends BaseComponent {
   }
 
   async assertCourseDetailsCardScreenshot(options: {
-    courseName: string;
     fileName: string;
   }): Promise<void> {
     await test.step('Assert course details card screenshot', async () => {
-      const { courseName, fileName } = options;
-      const courseCard = this.courseDetailsCard.getByText(courseName);
+      const { fileName } = options;
+      const courseCard = this.courseDetailsCard;
 
       await this.assertLocatorHasScreenshot(courseCard, fileName);
     });

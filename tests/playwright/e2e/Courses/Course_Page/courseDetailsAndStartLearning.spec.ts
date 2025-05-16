@@ -14,7 +14,6 @@ test.describe('Course page', () => {
     await coursePage.assertOpened();
     await coursePage.courseDetailsCard.assertVisible();
     await coursePage.courseDetailsCard.assertCourseDetailsCardScreenshot({
-      courseName: course.name,
       fileName: 'courseDetailsCard',
     });
     await coursePage.assertCourseDescription(course.description);
