@@ -1,0 +1,2 @@
+[2025-05-16T14:22:25.030Z] [INFO]: Test started: /playwright/e2e/Courses/Search_and_Filter/productBuyingProcess.spec.ts
+[2025-05-16T14:22:34.776Z] [INFO]: Test completed: /playwright/e2e/Courses/Search_and_Filter/productBuyingProcess.spec.ts
